@@ -7,5 +7,7 @@ public class gitdemo {
         System.out.println("hot fix");
         System.out.println("master confix");
         System.out.println("push test1");
+        System.out.println("pull test1");
+        
     }
 }
